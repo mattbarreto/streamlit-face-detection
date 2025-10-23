@@ -1,0 +1,9 @@
+# Archivo de configuración para versiones específicas de Python
+# Streamlit Cloud puede usar esto para determinar versiones compatibles
+
+python_version: "3.11"
+requirements_file: "requirements.txt"
+
+# Configuración alternativa si Python 3.11 no funciona
+# python_version: "3.9"
+# python_version: "3.10"
